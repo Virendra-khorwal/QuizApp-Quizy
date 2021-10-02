@@ -3,3 +3,5 @@ A quiz app Quizy. I learnt how to transfer data or use data from one activity to
 <br>
 <br>
 <img src="https://github.com/Virendra-khorwal/QuizApp-Quizy/blob/master/Screen%201.jpeg" width="180" height="400">
+<img src="https://github.com/Virendra-khorwal/QuizApp-Quizy/blob/master/Screen%202.jpeg" width="180" height="400">
+<img src="https://github.com/Virendra-khorwal/QuizApp-Quizy/blob/master/Screen%203.jpeg" width="180" height="400">
